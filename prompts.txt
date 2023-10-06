@@ -1,0 +1,6 @@
+cup
+dog
+flying bird
+robot
+spider
+table lamp
